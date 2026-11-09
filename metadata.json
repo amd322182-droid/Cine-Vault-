@@ -1,0 +1,6 @@
+{
+  "name": "CineVault – Professional Movie Library & Streaming Platform",
+  "description": "Production-ready movie library and download platform featuring 1080p, 720p, and 360p video qualities, advanced multi-parameter search, secure admin dashboard, movie upload management, and integrated advertisement management.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
